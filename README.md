@@ -85,6 +85,3 @@ requirements.txt    # Python dependencies
 - **Downgrade:**  
   `flask db downgrade`
 
-## API Documentation
-
-See [`challenge-4-lateshow.postman_collection.json`](challenge-4-lateshow.postman_collection.json) for example requests.
